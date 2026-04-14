@@ -17,3 +17,8 @@
 # Troubleshooting:
 # - Check spacing
 # - Check capitalization
+name="Burraq"
+age=16
+
+echo "Name: $name"
+echo "Age: $age"

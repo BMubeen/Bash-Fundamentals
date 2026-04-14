@@ -9,10 +9,22 @@
 # Common mistakes: 
 # name = "Burraq" (spaces break it)
 # $name="Burraq"  (Wrong when assigning)
-# Demo : 
+# Ex  : 
 
 name="Burraq"
 age=16
 
 echo "Name: $name"
 echo "Age: $age"
+
+# Using variables in math
+
+num1=5
+num2=3
+sum=$((num1 + num2))
+echo "Sum: $sum"
+
+# Why use variables?
+# - Avoid making repeating values 
+# - make scripts easier to update 
+# - Easier to understand

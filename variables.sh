@@ -14,3 +14,6 @@
 # Common mistakes:
 # $name = "Burraq"
 # $name="Burraq"
+# Troubleshooting:
+# - Check spacing
+# - Check capitalization

@@ -17,8 +17,12 @@
 # Troubleshooting:
 # - Check spacing
 # - Check capitalization
+# Example
 name="Burraq"
 age=16
 
 echo "Name: $name"
 echo "Age: $age"
+
+name="Ahmed"
+echo "Updated name: $name"

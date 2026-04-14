@@ -5,3 +5,5 @@
 # ' ' treats everything literally
 # Common mistakes:
 # expecting variables in single quotes
+# Troubleshooting:
+# - Use double quotes if variables are not working

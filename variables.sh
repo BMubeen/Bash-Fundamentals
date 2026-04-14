@@ -7,3 +7,7 @@
 # Variables are assigned using =
 # No spaces allowed
 # Example: name="Burraq"
+# Rules:
+# - No spaces around =
+# - Case sensitive
+# - Do not start with numbers

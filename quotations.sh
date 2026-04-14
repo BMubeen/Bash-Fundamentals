@@ -3,3 +3,5 @@
 # Types:
 # " " allows variables
 # ' ' treats everything literally
+# Common mistakes:
+# expecting variables in single quotes

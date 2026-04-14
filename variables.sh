@@ -11,3 +11,6 @@
 # - No spaces around =
 # - Case sensitive
 # - Do not start with numbers
+# Common mistakes:
+# $name = "Burraq"
+# $name="Burraq"

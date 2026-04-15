@@ -5,3 +5,5 @@
 # %s = string
 # %d = number
 # \n = new line
+# Common mistakes:
+# forgetting format specifiers

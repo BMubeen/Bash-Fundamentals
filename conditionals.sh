@@ -20,3 +20,11 @@
 # Check spacing inside brackets
 # Use correct operator for numbers
 # Print values using echo to debug
+# Example 
+a=5
+b=10
+
+if [ $a -lt $b ]
+then
+    echo "a is less than b"
+fi

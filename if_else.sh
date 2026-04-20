@@ -17,3 +17,7 @@
 # missing spaces: if[$num -gt 5]
 # forgetting then or fi
 # wrong operators
+# Troubleshooting:
+# Check spacing inside brackets
+# Make sure then and fi are included
+# Print variables using echo to debug

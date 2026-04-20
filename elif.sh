@@ -14,3 +14,7 @@
 # else
 #   code
 # fi
+# Rules:
+# - Conditions are checked from top to bottom
+# - Only the FIRST true condition runs
+# - Must end with fi

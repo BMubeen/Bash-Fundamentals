@@ -22,3 +22,7 @@
 # Forgetting elif keyword
 # wrong order of conditions
 # missing fi at the end
+# Troubleshooting:
+# - Check order of conditions
+# - Make sure brackets have spaces
+# - Use echo to test values

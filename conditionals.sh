@@ -9,3 +9,6 @@
 # -lt → less than
 # -ge → greater than or equal
 # -le → less than or equal
+# How it works:
+# Operators are used inside brackets [ ]
+# Example: if [ $a -gt $b ]

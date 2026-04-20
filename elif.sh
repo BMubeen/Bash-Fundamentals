@@ -23,6 +23,18 @@
 # wrong order of conditions
 # missing fi at the end
 # Troubleshooting:
-# - Check order of conditions
-# - Make sure brackets have spaces
-# - Use echo to test values
+# Check order of conditions
+# Make sure brackets have spaces
+# Use echo to test values
+# Example 
+num=10
+
+if [ $num -lt 5 ]
+then
+    echo "Less than 5"
+elif [ $num -eq 10 ]
+then
+    echo "Equal to 10"
+else
+    echo "Other value"
+fi

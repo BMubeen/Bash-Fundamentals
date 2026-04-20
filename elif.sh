@@ -18,3 +18,7 @@
 # - Conditions are checked from top to bottom
 # - Only the FIRST true condition runs
 # - Must end with fi
+# Common mistakes:
+# Forgetting elif keyword
+# wrong order of conditions
+# missing fi at the end

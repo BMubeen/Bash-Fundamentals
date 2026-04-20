@@ -9,3 +9,11 @@
 # else
 #   code runs if condition is false
 # fi
+# Rules:
+# - Always use spaces inside [ ]
+# - Must include then and fi
+# - Conditions use operators like -gt, -lt, -eq
+# Common mistakes:
+# missing spaces: if[$num -gt 5]
+# forgetting then or fi
+# wrong operators

@@ -16,3 +16,7 @@
 # using == for numbers
 # missing spaces inside brackets
 # mixing string and number comparisons
+# Troubleshooting:
+# Check spacing inside brackets
+# Use correct operator for numbers
+# Print values using echo to debug

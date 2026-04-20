@@ -12,3 +12,7 @@
 # How it works:
 # Operators are used inside brackets [ ]
 # Example: if [ $a -gt $b ]
+# Common mistakes:
+# using == for numbers
+# missing spaces inside brackets
+# mixing string and number comparisons

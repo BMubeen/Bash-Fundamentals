@@ -18,3 +18,9 @@
 # - Check index values (start at 0)
 # - Use echo to print array contents
 # - Make sure syntax is correct
+# Example 
+fruits=("apple" "banana" "orange")
+
+echo "First fruit: ${fruits[0]}"
+echo "Second fruit: ${fruits[1]}"
+echo "All fruits: ${fruits[@]}"

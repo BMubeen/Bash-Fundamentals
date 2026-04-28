@@ -10,3 +10,7 @@
 # - Use ${array[index]} to access values
 # - Index starts at 0
 # - Use ${array[@]} to access all values
+# Common mistakes:
+# forgetting parentheses ()
+# Wrong index number
+# missing $ when accessing values

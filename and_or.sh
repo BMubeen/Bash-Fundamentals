@@ -9,3 +9,7 @@
 # - Each condition must be inside its own [ ]
 # - Use && for AND
 # - Use || for OR
+# Common mistakes:
+# putting both conditions in one bracket
+# forgetting spaces inside [ ]
+# using wrong operators

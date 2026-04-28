@@ -6,3 +6,7 @@
 # Arrays are created using parentheses ()
 # Example: fruits=("apple" "banana" "orange")
 # Index starts at 0
+# Rules:
+# - Use ${array[index]} to access values
+# - Index starts at 0
+# - Use ${array[@]} to access all values

@@ -14,3 +14,7 @@
 # forgetting parentheses ()
 # Wrong index number
 # missing $ when accessing values
+# Troubleshooting:
+# - Check index values (start at 0)
+# - Use echo to print array contents
+# - Make sure syntax is correct

@@ -2,3 +2,10 @@
 # What is it?
 # AND and OR allow you to combine multiple conditions.
 # This lets your program make more complex decisions.
+# How it works:
+# && means AND (both conditions must be true)
+# || means OR (at least one condition must be true)
+# Rules:
+# - Each condition must be inside its own [ ]
+# - Use && for AND
+# - Use || for OR

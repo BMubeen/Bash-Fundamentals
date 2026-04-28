@@ -17,3 +17,10 @@
 # - Check spacing inside brackets
 # - Make sure each condition is separate
 # - Use echo to check variable values
+# Example
+age=18
+
+if [ $age -gt 16 ] && [ $age -lt 21 ]
+then
+    echo "Teenager"
+fi

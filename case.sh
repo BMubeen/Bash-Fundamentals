@@ -7,3 +7,11 @@
 #   pattern) command ;;
 #   pattern) command ;;
 # esac
+# Rules:
+# - Each case ends with ;;
+# - esac closes the statement
+# - Patterns match values of the variable
+# Common mistakes:
+# forgetting ;;
+# missing esac
+# incorrect pattern matching

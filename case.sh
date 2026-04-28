@@ -15,3 +15,7 @@
 # forgetting ;;
 # missing esac
 # incorrect pattern matching
+# Troubleshooting:
+# - Make sure each case ends with ;;
+# - Check spelling of patterns
+# - Use * for default case

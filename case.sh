@@ -19,3 +19,11 @@
 # - Make sure each case ends with ;;
 # - Check spelling of patterns
 # - Use * for default case
+# Example 
+read -p "Enter a number: " num
+
+case $num in
+    1) echo "One" ;;
+    2) echo "Two" ;;
+    *) echo "Other" ;;
+esac

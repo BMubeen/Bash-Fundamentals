@@ -13,3 +13,7 @@
 # putting both conditions in one bracket
 # forgetting spaces inside [ ]
 # using wrong operators
+# Troubleshooting:
+# - Check spacing inside brackets
+# - Make sure each condition is separate
+# - Use echo to check variable values

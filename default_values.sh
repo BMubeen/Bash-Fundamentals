@@ -14,3 +14,7 @@
 # forgetting braces
 # using wrong syntax
 # expecting it to overwrite existing values
+# Troubleshooting:
+# Check syntax carefully
+# Make sure braces are included
+# Test with empty variables

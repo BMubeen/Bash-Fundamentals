@@ -9,4 +9,8 @@
 # Rules:
 # - Variable must be inside ${ }
 # - Use :- before the default value
-# - Works when variable is empty or unset
+# - Works when varigit add able is empty or unset
+# Common mistakes:
+# forgetting braces
+# using wrong syntax
+# expecting it to overwrite existing values

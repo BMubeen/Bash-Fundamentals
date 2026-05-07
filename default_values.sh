@@ -17,4 +17,9 @@
 # Troubleshooting:
 # Check syntax carefully
 # Make sure braces are included
-# Test with empty variables
+# Test with empty variables 
+# Example :
+
+name=${1:-Guest}
+
+echo "Hello $name"

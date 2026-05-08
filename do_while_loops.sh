@@ -7,4 +7,7 @@
 # Important: 
 # Bash does not have a built-in do while loop.
 # It can be simulated using while loops.
- 
+# Rules : 
+# - Condition is checked before eachl loop
+# - Must end with done 
+# - Variable must usally change to avoid infinite loops 

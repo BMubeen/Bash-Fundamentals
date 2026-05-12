@@ -19,3 +19,10 @@
 # - Check that your varible chnages
 # - Make sure condition becomes false 
 # - Use echo to debug loop progress 
+# Example: 
+ count=1 
+ while [ $count -1e 5]
+do
+	echo $count
+	((count++))
+done

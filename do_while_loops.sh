@@ -20,9 +20,24 @@
 # - Make sure condition becomes false 
 # - Use echo to debug loop progress 
 # Example: 
+
  count=1 
+
  while [ $count -1e 5]
 do
 	echo $count
 	((count++))
+done
+# Example 2 
+
+num=1 
+
+while true 
+do 
+	echo $num 
+	((num++))
+	If [ $num -gt 3]
+then 
+	break 
+fi 
 done

@@ -11,3 +11,7 @@
 # - Condition is checked before eachl loop
 # - Must end with done 
 # - Variable must usally change to avoid infinite loops 
+# Common mistakes: 
+# Forgetting done
+# not updating loop variable 
+# Infinite loops

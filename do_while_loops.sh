@@ -12,6 +12,10 @@
 # - Must end with done 
 # - Variable must usally change to avoid infinite loops 
 # Common mistakes: 
-# Forgetting done
-# not updating loop variable 
-# Infinite loops
+# - Forgetting done
+# - not updating loop variable 
+# - Infinite loops
+# Trouble shooting:
+# - Check that your varible chnages
+# - Make sure condition becomes false 
+# - Use echo to debug loop progress 

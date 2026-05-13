@@ -18,7 +18,7 @@
 # - Check row formating 
 # - Use echo to print rows
 # - Remember bash treats rows as strings
-# Example 1: 
+# Example 1 : 
 
 matrix=("1 2 3" "4 5 6" "7 8 9")
 

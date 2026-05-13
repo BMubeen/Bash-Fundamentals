@@ -25,3 +25,8 @@ matrix=("1 2 3" "4 5 6" "7 8 9")
 echo "${matrix[0]}"
 echo "${matrix[1]}"
 echo "${matrix[2]}"
+# Exmaple 2:
+row=(${matrix[1]})
+
+echo "First value in second row: ${row[0]}"
+echo "Second value in second row: ${row[1]}"

@@ -6,3 +6,7 @@
 # How it works :
 # Bash simulates 2D arrays usig 2D arrays of strings.
 # Each string represents a row.
+# Rules : 
+# - Each row is stored as a string
+# - Values are seperated by spaces 
+# - Access requires splitting the row

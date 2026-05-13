@@ -10,3 +10,7 @@
 # - Each row is stored as a string
 # - Values are seperated by spaces 
 # - Access requires splitting the row
+# Common Mistakes:
+# - Expecting true matrix support 
+# - Incorrect indexing 
+# - Forgetting spaces between values

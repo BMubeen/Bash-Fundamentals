@@ -26,7 +26,14 @@ echo "${matrix[0]}"
 echo "${matrix[1]}"
 echo "${matrix[2]}"
 # Exmaple 2:
+
 row=(${matrix[1]})
 
 echo "First value in second row: ${row[0]}"
 echo "Second value in second row: ${row[1]}"
+# Exmaple 3: 
+
+for r in "${matrix[@]}"
+do
+    echo "$r"
+done

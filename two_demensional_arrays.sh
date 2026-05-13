@@ -14,3 +14,7 @@
 # - Expecting true matrix support 
 # - Incorrect indexing 
 # - Forgetting spaces between values
+# Troubleshooting:
+# - Check row formating 
+# - Use echo to print rows
+# - Remember bash treats rows as strings

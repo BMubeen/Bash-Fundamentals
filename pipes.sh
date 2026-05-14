@@ -12,3 +12,7 @@
 # - use | between commands
 # - Output from first becomes inpur for second 
 # - Multiple pipes can be chained 
+# Comon mistkaes: 
+# - forgetting spaces around | 
+# - piping incompatible commands 
+# - misunderstanding command output

@@ -16,3 +16,7 @@
 # - forgetting spaces around | 
 # - piping incompatible commands 
 # - misunderstanding command output
+# Troubleshooting: 
+# - test commands separately first
+# - Check command output
+# - Vertex syntax

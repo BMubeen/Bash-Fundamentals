@@ -8,3 +8,7 @@
 #
 # command1 produces output
 # command2 receives and processes it
+# Rules: 
+# - use | between commands
+# - Output from first becomes inpur for second 
+# - Multiple pipes can be chained 

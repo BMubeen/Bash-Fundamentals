@@ -12,15 +12,18 @@
 # - use | between commands
 # - Output from first becomes inpur for second 
 # - Multiple pipes can be chained 
-# Common mistakes: 
+# Common mistakes:
 # - forgetting spaces around | 
 # - piping incompatible commands 
 # - misunderstanding command output
 # Troubleshooting: 
 # - test commands separately first
 # - Check command output
-# - Vertex syntax
+# - Vertex syntax 
 # Example 1:
 
 echo "apple banana orange" | tr ' ' '\n'
 
+# Example 2:
+
+ls | wc -l

@@ -22,11 +22,11 @@
 echo "Hello Bash" > output.txt
 cat output.txt
 
-#What it does: Creates output.txt
+#What it does: Creates a file and writes text
 
 # Example 2 : 
 
 echo "New line" >> output.txt
 cat output.tx
 
-# what it does : Output:Hello Bash New line
+# what it does : Output: Adds more text without deleting old text

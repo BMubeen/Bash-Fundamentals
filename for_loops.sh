@@ -28,3 +28,11 @@ do
     echo $i
 done
 # Loops through numbers
+
+# Example 2 :
+
+for fruit in apple banana orange
+do
+    echo $fruit
+done
+# Loops through words

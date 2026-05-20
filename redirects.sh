@@ -9,7 +9,11 @@
 # - Replaces file contents
 # - adds to the file 
 # - File is created if it does not exist 
-# Common mistak:
+# Common mistakes:
 # - Accidentally overwriting files
 # - confusing > and >> 
 # - Forgeting file names
+# Troubleshooting:
+# - Check if file exists
+# - Use cat to varify contents 
+# - Use >> if you want to keep old data 

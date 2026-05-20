@@ -21,3 +21,10 @@
 # - Check spacing and syntax
 # - Verify list values
 # - Use echo to debug loop progress
+# Example 1 : 
+
+for i in 1 2 3 4 5
+do
+    echo $i
+done
+# Loops through numbers

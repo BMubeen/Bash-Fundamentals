@@ -17,3 +17,6 @@
 # - Check if file exists
 # - Use cat to varify contents 
 # - Use >> if you want to keep old data 
+# Example 1: 
+echo "Hello Bash" > output.txt
+cat output.txt

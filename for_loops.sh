@@ -17,3 +17,7 @@
 # - Forgetting done
 # - Incorrect lsit syntax
 # - Modifying wrong variables 
+# Troubleshooting:
+# - Check spacing and syntax
+# - Verify list values
+# - Use echo to debug loop progress

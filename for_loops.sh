@@ -36,3 +36,11 @@ do
     echo $fruit
 done
 # Loops through words
+
+# Example 3 : 
+
+for file in *
+do
+    echo $file
+done
+# Loops through files in directory

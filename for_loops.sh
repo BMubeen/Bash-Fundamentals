@@ -13,3 +13,7 @@
 # - Loop variable changes each cycle 
 # - Must end with done
 # - Can loop through numbers,words,ro files
+# Common Mistakes : 
+# - Forgetting done
+# - Incorrect lsit syntax
+# - Modifying wrong variables 

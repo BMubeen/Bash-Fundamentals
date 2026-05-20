@@ -18,5 +18,15 @@
 # - Use cat to varify contents 
 # - Use >> if you want to keep old data 
 # Example 1: 
+
 echo "Hello Bash" > output.txt
 cat output.txt
+
+#What it does: Creates output.txt
+
+# Example 2 : 
+
+echo "New line" >> output.txt
+cat output.tx
+
+# what it does : Output:Hello Bash New line

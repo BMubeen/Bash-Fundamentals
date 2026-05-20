@@ -5,3 +5,7 @@
 # How it works:
 # Creates or overwrites a file
 # Appends to an existing file
+# Rules: 
+# - Replaces file contents
+# - adds to the file 
+# - File is created if it does nit exist 

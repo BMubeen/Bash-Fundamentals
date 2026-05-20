@@ -8,4 +8,8 @@
 # Rules: 
 # - Replaces file contents
 # - adds to the file 
-# - File is created if it does nit exist 
+# - File is created if it does not exist 
+# Common mistak:
+# - Accidentally overwriting files
+# - confusing > and >> 
+# - Forgeting file names
